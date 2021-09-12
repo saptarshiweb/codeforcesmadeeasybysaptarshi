@@ -1,16 +1,19 @@
 # codeforces_made_easy
 
-A new Flutter project.
+A Website for CodeForces Lovers. Here you can view Questions, Contests , explore any users profile and much more.
 
-## Getting Started
+[DemoVideo](https://drive.google.com/drive/folders/1kUEA00PzSevRxkvlyL2BwHdJGfuV2vUE?usp=sharing)
 
-This project is a starting point for a Flutter application.
+Some of the Screenshots are Given-->
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Capture1](https://user-images.githubusercontent.com/79189686/132990292-68b66191-14df-4fbd-a1f0-9ba0a5c3df70.JPG)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture2](https://user-images.githubusercontent.com/79189686/132990315-2d4c393e-6230-4168-a904-265bbf960153.JPG)
+
+![Capture3](https://user-images.githubusercontent.com/79189686/132990317-5aeb0ce8-be01-4b10-ba92-5cfa2c2b8ea1.JPG)
+
+![Capture4](https://user-images.githubusercontent.com/79189686/132990318-0fdcba95-0b25-4f90-a409-040275cae730.JPG)
+
+![Capture5](https://user-images.githubusercontent.com/79189686/132990320-b4aa568d-258b-480f-a940-8c76d1c0b478.JPG)
+
